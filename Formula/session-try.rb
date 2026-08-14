@@ -1,7 +1,6 @@
 class SessionTry < Formula
   desc "Find and resume AI coding sessions by content or directory"
   homepage "https://github.com/yxwyoyoyo/session-try"
-  version "0.1.0"
   license "MIT"
 
   on_macos do
